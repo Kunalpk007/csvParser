@@ -8,5 +8,4 @@ export default {
     DB_PASSWORD: process.env.DB_PASSWORD || 'admin',
     DB_DATABASE: process.env.DB_DATABASE || 'postgresdb',
     PORT: process.env.APPPORT,
-
 }
